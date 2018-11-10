@@ -1,3 +1,2 @@
-var main = document.getElementById("main");
-main.innerHTML = "Hello, JS!";
-
+var container = document.getElementById('main');
+InstantSearch.highlight(container, 'Hello');

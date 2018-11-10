@@ -1,6 +1,9 @@
-Js Hello World Demo
-===================
+JavaScript Keyword Highlight Demo
+=================================
 
-Open `index.html` in your browser.
+Use the code from <https://stackoverflow.com/a/29798094/342235>
 
-You will see "Hello, JS!" on the page.
+```
+open index.html
+```
+
